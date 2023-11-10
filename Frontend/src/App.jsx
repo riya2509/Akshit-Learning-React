@@ -1,6 +1,7 @@
 // import React from 'react'
 
 import Data from "./Data";
+import Lifecycle from "./Lifecycle";
 
 function App() {
   const test = 1;
@@ -13,6 +14,7 @@ function App() {
     <div>
       App {test}
       <Data />
+      <Lifecycle />
     </div>
   );
 }
