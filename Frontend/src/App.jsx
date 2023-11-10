@@ -1,5 +1,7 @@
 // import React from 'react'
 
+import Data from "./Data";
+
 function App() {
   const test = 1;
   //This area contains javascript code
@@ -8,7 +10,10 @@ function App() {
     // HTML code + JS
     //Js Code -> {}
 
-    <div>App {test}</div>
+    <div>
+      App {test}
+      <Data />
+    </div>
   );
 }
 
