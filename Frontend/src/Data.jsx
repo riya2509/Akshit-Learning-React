@@ -16,4 +16,5 @@ function Data() {
     </h2>
   );
 }
+
 export default Data;
