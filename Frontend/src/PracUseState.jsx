@@ -47,7 +47,7 @@ function PracUseState() {
         placeholder="Money"
       />
 
-      <button className="Submit" onClick={handleSubmit}>
+      <button className="Submit" onClick={handleSubmit()}>
         Submit
       </button>
     </div>
