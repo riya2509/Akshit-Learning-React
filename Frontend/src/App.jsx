@@ -1,7 +1,9 @@
 // import React from 'react'
 
-import Data from "./Data";
-import Variables from "./Variables";
+import Test from "./Test";
+
+// import Data from "./Data";
+// import Variables from "./Variables";
 
 function App() {
   const test = 1;
@@ -13,8 +15,9 @@ function App() {
 
     <div>
       App {test}
-      <Data />
-      <Variables />
+      {/* <Data />
+      <Variables /> */}
+      <Test />
     </div>
   );
 }
