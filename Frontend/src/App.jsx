@@ -1,6 +1,6 @@
 // import React from 'react'
 
-import Test from "./Test";
+import PracUseState from "./PracUseState";
 
 // import Data from "./Data";
 // import Variables from "./Variables";
@@ -16,8 +16,8 @@ function App() {
     <div>
       App {test}
       {/* <Data />
-      <Variables /> */}
-      <Test />
+       <Variables /> */}
+      <PracUseState />
     </div>
   );
 }
