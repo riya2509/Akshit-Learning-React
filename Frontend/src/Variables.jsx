@@ -1,7 +1,7 @@
 function Variables() {
   let abc = 20; // let works inside a given scope
   // var works outside the scope for eg outside for loop
-  const profile = { name: "Riya", age: 20, weight: 50 };
+  const profile = { name: "Riya", age: 20, weight: 50 }; //key value pair
   profile.name = "Shalu";
   return (
     <div style={{ padding: "20px" }}>
