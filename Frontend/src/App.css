@@ -1,0 +1,9 @@
+.add {
+    border: none
+}
+
+.first {
+ border: 1px dashed yellow !important;
+    background-color: rgbrgb(207, 193, 44);
+    cursor: pointer;
+}
